@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Akshay Kumar</h1>
-<h3 align="center">A passionate from India</h3>
 <img align=“right” alt=“Coding” Width=“400” src="https://img.freepik.com/free-vector/programmer-work-with-working-day-symbols-flat-illustration_1284-60322.jpg?w=1380&t=st=1688045671~exp=1688046271~hmac=8a2cd4b6b218de20a24d52057486dfa77c1ce4c109b62d9bc1ebcbb6192e1a96"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarakshay822&label=Profile%20views&color=0e75b6&style=flat" alt="kumarakshay822" /> </p>
